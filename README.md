@@ -25,9 +25,10 @@
       <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="100" width="100" height=""/>
     </div>
 
-  <br>
-  <div id="stats">
+  <div id="footer">
+    <!-- 
     <img src="https://komarev.com/ghpvc/?username=SebastinUA&style=flat-square&color=blue" alt=""/>
+    -->
   </div>
   
 </div>
