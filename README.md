@@ -22,7 +22,8 @@
 
   <H3> I'm certified with the next certificates: </H3>
     <div id="certs">
-      <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="100" width="100" height=""/>
+      <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width="100" height="100"/>
+      <img src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png" width="100" height="100"/>
     </div>
 
   <div id="footer">
